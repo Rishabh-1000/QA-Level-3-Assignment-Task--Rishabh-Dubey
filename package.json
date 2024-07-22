@@ -1,0 +1,14 @@
+{
+  "name": "qa-level-3-assignment-task--rishabh-dubey",
+  "version": "1.0.0",
+  "description": "qa-level-3-assignment-task--rishabh-dubey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.7.0"
+  }
+}
