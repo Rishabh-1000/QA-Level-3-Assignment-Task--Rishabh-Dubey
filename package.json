@@ -10,6 +10,11 @@
   "author": "Rishabh Dubey",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^12.7.0"
+    "cypress": "^12.7.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress-xpath": "^2.0.1"
   }
 }
