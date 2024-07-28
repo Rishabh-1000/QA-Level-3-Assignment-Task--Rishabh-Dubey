@@ -1,4 +1,3 @@
-import { forgotPasswordModal } from '../../support/Selectors/access';
 import { navigationBar } from '../../support/Selectors/common';
 import { faker } from '@faker-js/faker';
 
@@ -17,8 +16,5 @@ describe('Reset Password', () => {
         cy.login(email,password+'test');
         cy.get(navigationBar.userDetailsView).click();
         cy.contains(`${firstName} ${lastName}`).should('be.visible');
-        
-
-
     });
   });

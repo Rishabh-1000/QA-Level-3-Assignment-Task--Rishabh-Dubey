@@ -12,7 +12,7 @@ describe('User Sign-Up Process', () => {
         cy.signUp(email,firstName,lastName,password);
         cy.navigateToLoginPage('');
         cy.login(email,password);
-       cy.get(navigationBar.userDetailsView).click();
-      cy.contains(`${firstName} ${lastName}`).should('be.visible');
+        cy.get(navigationBar.userDetailsView).click();
+        cy.contains(`${firstName} ${lastName}`).should('be.visible');
     });
   });
