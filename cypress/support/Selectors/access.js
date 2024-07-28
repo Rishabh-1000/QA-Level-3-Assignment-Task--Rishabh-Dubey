@@ -16,3 +16,11 @@ export const loginModal = {
     getRecoverLink :'GET RECOVER LINK',
 
   };
+  export const cart=
+  {
+      addToCart:'add to cart',
+      moveToCart:/^ Cart/,
+      productTitle:'.product__title',
+      removeFromCart:/^ Remove/,
+
+  };

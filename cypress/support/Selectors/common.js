@@ -14,7 +14,12 @@
         address: /^Address\*/,
         password: 'Password',
         passwordConfirmation: 'Confirm Password',
-        isMarketingCheckboxLabel:
-    'I want to receive inspiration, marketing promotions and updates via email.',
-       registerButton: 'SIGN UP',
+        isMarketingCheckboxLabel:'I want to receive inspiration, marketing promotions and updates via email.',
+        registerButton: 'SIGN UP',
  };
+      export const search= 
+      {
+        label: 'Search products',
+        resultsPanelClass: '.search__results',
+        resultItemClass: '.text-capitalize',
+      };
