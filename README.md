@@ -98,11 +98,11 @@ _This commands will launch the Cypress Test Runner and execute the test suite._
 
 ## Test Cases automated
 
-- [TC-001: User Sign-Up Process.](https://github.com/amosnjoroge/buckhill-qa-automation-eng-task/issues/17)
-- [TC-002: Reset Password for user](https://github.com/amosnjoroge/buckhill-qa-automation-eng-task/issues/18)
-- [TC-003: Add and Remove Items from Cart](https://github.com/amosnjoroge/buckhill-qa-automation-eng-task/issues/19)
-- [TC-004: Search products](https://github.com/amosnjoroge/buckhill-qa-automation-eng-task/issues/20)
-- [TC-005: Update Customer Details](https://github.com/amosnjoroge/buckhill-qa-automation-eng-task/issues/21)
-- [TC-006: Admin Login Logout.](https://github.com/amosnjoroge/buckhill-qa-automation-eng-task/issues/22)
+- [TC-001: User Sign-Up Process.](https://github.com/Rishabh-1000/QA-Level-3-Assignment-Task--Rishabh-Dubey/issues/17)
+- [TC-002: Reset Password for user](https://github.com/Rishabh-1000/QA-Level-3-Assignment-Task--Rishabh-Dubey/issues/18)
+- [TC-003: Add and Remove Items from Cart](https://github.com/Rishabh-1000/QA-Level-3-Assignment-Task--Rishabh-Dubey/issues/19)
+- [TC-004: Search products](https://github.com/Rishabh-1000/QA-Level-3-Assignment-Task--Rishabh-Dubey/issues/20)
+- [TC-005: Update Customer Details](https://github.com/Rishabh-1000/QA-Level-3-Assignment-Task--Rishabh-Dubey/issues/21)
+- [TC-006: Admin Login Logout.](https://github.com/Rishabh-1000/QA-Level-3-Assignment-Task--Rishabh-Dubey/issues/22)
 - [TC-007: Delete Product](https://github.com/Rishabh-1000/QA-Level-3-Assignment-Task--Rishabh-Dubey/issues/23)
 
